@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "360058518877",
+    "firebase_url": "https://know-how-f735a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "know-how-f735a",
+    "storage_bucket": "know-how-f735a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360058518877:android:4e2cd86e5e087217a9bcb4",
+        "android_client_info": {
+          "package_name": "com.example.knowhow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360058518877-4iak0va1kg7ri7rvdp3hkogtm7kng380.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO3GWohq39kVIcxFDayfhOyGmryeWqew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360058518877-4iak0va1kg7ri7rvdp3hkogtm7kng380.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360058518877:android:8adeaf575bdb98aaa9bcb4",
+        "android_client_info": {
+          "package_name": "com.example.uploadhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360058518877-4iak0va1kg7ri7rvdp3hkogtm7kng380.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO3GWohq39kVIcxFDayfhOyGmryeWqew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360058518877-4iak0va1kg7ri7rvdp3hkogtm7kng380.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
